@@ -1,0 +1,24 @@
+{
+  "assembler": {
+    "default_output_dir": "output",
+    "create_hack_file": true,
+    "create_excel_view": false
+  },
+  "debugger": {
+    "default_excel_file": "HACKCompiler.xlsx",
+    "ram_view_size": 64,
+    "max_steps": 100000,
+    "auto_save_excel": true
+  },
+  "excel": {
+    "color_current_instruction": "FFFF00",
+    "color_breakpoint": "FF6B6B",
+    "color_modified_value": "90EE90",
+    "show_headers": true,
+    "auto_adjust_columns": true
+  },
+  "paths": {
+    "test_programs": "tests/test_programs",
+    "output": "output"
+  }
+}

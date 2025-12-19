@@ -292,4 +292,4 @@ config.save()  # 保存到config.json
 
 ## 作者
 
-HACK Compiler & Debugger Team
+Claude Sonnet 4.5
